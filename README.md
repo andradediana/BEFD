@@ -124,8 +124,8 @@ install.packages(c("DIMORA", "forecast", "zoo", "lmtest", "readxl", "plotrix",
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
-   cd <your-repo-folder>
+   git clone https://github.com/andradediana/BEFD
+   cd (https://github.com/andradediana/BEFD
    ```
 2. Keep `FINAL.R` and all `.csv` files in the **same folder**. The script reads them with relative paths.
 3. Open `FINAL.R` in RStudio, set the working directory to that folder (*Session → Set Working Directory → To Source File Location*), and run the script top to bottom.
